@@ -1,0 +1,6 @@
+name: EloLeaderboard
+main: com.example.eloleaderboard.EloLeaderboardPlugin
+version: 1.0
+api-version: '1.21'
+author: ChatGPT
+description: Leaderboard plugin using mini armor stands and player heads.
